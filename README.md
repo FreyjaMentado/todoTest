@@ -6,7 +6,7 @@ Prereqs:
 - node JS
 
 Relevant commands:
-Before running any other commands, make sure you are in the proper environment by running `pipen shell` at the root of this project
+Before running any other commands, make sure you are in the proper environment by running `pipenv shell` at the root of this project
 - Backend
   - `python manage.py runserver`
 - Frontend
